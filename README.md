@@ -1,2 +1,9 @@
 # StudyTracker
-Django Application to track progress of YouTube Playlist
+
+## Goal
+An application where a user can track the progress of youtube playlists/Videos
+
+## Tech Stack
+- Python
+- Django
+- Postgres
